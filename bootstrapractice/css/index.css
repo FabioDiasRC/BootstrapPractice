@@ -1,0 +1,170 @@
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+.row {
+  margin: 0;
+}
+
+.container {
+  padding: 70px 0;
+}
+
+p,
+li {
+  color: #444;
+  font-size: 14px;
+}
+
+header {
+  height: 10vh;
+}
+
+header,
+.navbar {
+  background-color: #fceb00;
+}
+
+#nav-container {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.logo {
+  width: 75px;
+}
+
+.navbar__brand {
+  padding: 0;
+  color: #131212;
+}
+
+.navbar__brand {
+  color: black;
+  text-decoration: none;
+}
+
+#navbar-links a {
+  color: #0f0f0f;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  padding: 1rem 0.8rem;
+}
+
+.container-fluid {
+  padding: 0;
+}
+
+.carousel-item,
+.carousel-inner {
+  height: 70vh;
+}
+
+.pCarousel {
+  font-size: 22px;
+  font-weight: 300;
+  color: white;
+}
+
+.main__title {
+  color: #444;
+  margin: 0 0 65px 0;
+  font-size: 40px;
+  text-align: center;
+}
+
+.specialties {
+  margin-top: -80px;
+}
+
+.specialties__titles {
+  text-align: center;
+  -ms-flex-item-align: center;
+      -ms-grid-row-align: center;
+      align-self: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+}
+
+.specialties__img {
+  width: 100%;
+  height: 200px;
+}
+
+.specialties__video {
+  height: 500px;
+}
+
+.specialties__video__fivePoint {
+  width: 640px;
+  position: absolute;
+  margin: auto;
+  padding: 20px;
+  left: 25%;
+  margin-top: 58px;
+  -ms-flex-line-pack: center;
+      align-content: center;
+}
+
+.specialties__yellow {
+  background-color: #fceb00;
+}
+
+.specialties__black {
+  background-color: black;
+}
+
+.circle__box div {
+  padding: 0 40px;
+}
+
+.circle__progressbar-text {
+  font-weight: bold;
+  font-size: 32px;
+}
+
+.circle__p {
+  color: #fff;
+  text-align: center;
+  font-size: 26px;
+  margin-top: 20px;
+}
+
+.project-box {
+  margin-bottom: 30px;
+}
+
+#filter-btn-box {
+  margin-bottom: 50px;
+  text-align: center;
+}
+
+.btn-outline-warning {
+  margin: 0 15px;
+  min-width: 100px;
+  width: auto;
+  height: 40px;
+  line-height: 40px;
+  padding: 0 20px;
+}
+
+.hide {
+  background-color: black;
+  display: none;
+}
+
+/* .btn-outline-warning.active .btn-outline-warning:hover{
+  color: #fff;
+  background-color: $amarelo;
+  border-color: $amarelo;
+} */
+.img__btn {
+  width: 350px;
+  height: 200px;
+}
+
+.teste {
+  background-color: chartreuse;
+}
+/*# sourceMappingURL=index.css.map */
