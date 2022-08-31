@@ -1,9 +1,23 @@
-# BootstrapPractice
+<h1>Booststrap Practice</h1>
 
-Open the index.html in navigation
+## Sobre o projeto
+<p>O projeto foi criado para praticar a utilização do bootstrap (responsivo)</p>
 
-this code still need be finished, i will be working in:
--> Changing the bug color in 'filter of enemys';
--> Apply responsivity;
--> Add more functionalities for practice;
--> add footer.
+## Ferramentas
+<ul>
+    <li>HMTL</li>
+    <li>CSS</li>
+    <li>Bootstrap</li>
+    <li>Sass</li>
+</ul>
+
+<img src='./img/preview.gif'></img>
+
+## Rodando o projeto
+
+```bash
+#Para clonar o projeto:
+$git clone https://github.com/FabioDiasRC/BootstrapPractice
+Abrir 'index.html' em um navegador
+```
+<p>Caso tenha observado algum erro ou tenha alguma dica, por favor, me mande um email em fabior.carvalho@hotmail.com</p>
